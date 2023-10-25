@@ -67,7 +67,7 @@ const scrollUp=()=>{
 
 window.addEventListener('scroll',scrollUp);
 
-/*=============== SCROLL REVEAL ANIMATION ===============*/
+/* SCROLL REVEAL ANIMATION */
 const sr=ScrollReveal({
     origin:'top',
     distance:'60px',
