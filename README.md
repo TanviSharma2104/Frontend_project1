@@ -43,9 +43,9 @@ Welcome to the **Gym Website - VitalityX** repository! This project is a gym web
 
 ## Snapshots
 
-![Screenshot (298)](https://github.com/TanviSharma2104/Frontend_project1/assets/101709149/d54b7118-7355-43ca-9687-98044dfabb18)
-
 ![Screenshot (297)](https://github.com/TanviSharma2104/Frontend_project1/assets/101709149/34329712-bc1f-4728-86ff-6e6140a7046e)
+
+![Screenshot (298)](https://github.com/TanviSharma2104/Frontend_project1/assets/101709149/d54b7118-7355-43ca-9687-98044dfabb18)
 
 ![Screenshot (299)](https://github.com/TanviSharma2104/Frontend_project1/assets/101709149/923ba388-55aa-424a-9652-4ec5c16ffe2c)
 
